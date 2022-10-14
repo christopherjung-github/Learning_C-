@@ -1,9 +1,9 @@
 # Learning_C++
 
 Directories:
-<br> Ch 01: Getting Started
-<br> Ch 02: Data Types
-<br> Ch 03: Structures, Classes, and Pointers
-<br> Ch 04: Control Flow
-<br> Ch 05: Functions
-<br> Ch 06: File I/0
+* Ch 01: Getting Started
+* Ch 02: Data Types
+* Ch 03: Structures, Classes, and Pointers
+* Ch 04: Control Flow
+* Ch 05: Functions
+* Ch 06: File I/0
