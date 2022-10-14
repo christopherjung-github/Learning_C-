@@ -1,6 +1,6 @@
 # Learning_C++
 
-Directories:
+## Directories:
 * Ch 01: Getting Started
 * Ch 02: Data Types
 * Ch 03: Structures, Classes, and Pointers
